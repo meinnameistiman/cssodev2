@@ -1,0 +1,57 @@
+*{
+    margin: 8px;
+}
+
+.logo{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table{
+    width:1750px;
+    height:66px;
+    background-color: #eeeeee;
+    margin:3px auto;
+    text-align: center;
+    font:16px 'Times New Roman', Times, serif;
+    color:#000;
+}
+
+.first_text{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.first_td{
+    background-color: #EEEEEE;
+    text-align: center;
+    width: 1400px;
+}
+
+#search{
+    width: 300px;
+}
+
+.second_td_one{
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 37%;
+}
+
+.second_td_two{
+    background: #70CCC2;
+    font-size: 13px;
+    text-align: center;
+}
+
+.second_td_three{
+    background: #62B3AA;
+    text-align: center;
+    font-size: 13px;
+}
+
+.third_td{
+    text-align: center;
+    font-size: 13px;
+}
